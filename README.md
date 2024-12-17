@@ -10,3 +10,4 @@
 7. <a href="https://github.com/hbharathbhat/rtl_codes/tree/main/%5B13%5D_counters">Counters</a>
 8. <a href="https://github.com/hbharathbhat/rtl_codes/tree/main/%5B15%5D_shift_registers">Shift Registers</a>
 9. <a href="https://github.com/hbharathbhat/rtl_codes/tree/main/%5B16%5D_lod">Leading One Detectors</a>
+10. <a href="">Comparators, Parity Generator, RAM, ROM</a>
