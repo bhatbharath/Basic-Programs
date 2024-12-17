@@ -1,7 +1,7 @@
 #### You can find my Verilog notes here > <a href="https://hbharathbhat.github.io/verilog">Link</a>
 ### This repository contains a bunch of verilog codes
 
-1. Flip-flops
+1. <a href="https://github.com/hbharathbhat/rtl_codes/tree/main/%5B01-08%5D_flipflops_%26_latches">Flip-flops</a>
 2. Latches
 3. Multiplexers
 4. Encoders
