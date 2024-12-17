@@ -5,7 +5,7 @@
 2. <a href="https://github.com/hbharathbhat/rtl_codes/tree/main/%5B01-08%5D_flipflops_%26_latches">Latches</a>
 3. <a href="https://github.com/hbharathbhat/rtl_codes/tree/main/%5B13%5D_mux">Multiplexers</a>
 4. Arithmetic Logic Unit
-5. Encoders
+5. Adders
 6. Multipliers
 7. Counters
 8. Shift Registers
